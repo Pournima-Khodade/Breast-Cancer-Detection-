@@ -1,1 +1,2 @@
 # Breast-Cancer-Detection-
+This project implements a machine learning model to predict breast cancer diagnoses based on patient data. Utilizing a labeled dataset, the model classifies benign and malignant tumors with high accuracy, leveraging features like mean radius, texture, and area of cell nuclei. The project includes data preprocessing, exploratory data analysis, and model training and evaluation, aiming to aid early diagnosis and treatment planning.
